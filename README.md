@@ -1,4 +1,4 @@
-# ChatApp
+# ChatApp - Hosted at https://dry-springs-24557.herokuapp.com/
 
 ### Description
 *ChatApp is a online chat application between a Node based server and a heroku hosted client. The application is designed to be a simple user interface with the option to display a Users' location using the geolocation library.*
