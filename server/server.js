@@ -1,3 +1,9 @@
+/* TODO
+1. Make room name Case insensitive. Ex: LoTr === LOTR
+2. Reject new users with the same name
+3. List the current active chat rooms in the home page (drop down on Room name field)
+*/
+
 const path = require('path');
 const http = require('http');
 const express = require('express');
