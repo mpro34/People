@@ -1,4 +1,4 @@
-# ChatApp
+# People - A chat application
 Hosted at https://dry-springs-24557.herokuapp.com/
 
 ### Description
